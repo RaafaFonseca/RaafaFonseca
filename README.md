@@ -4,7 +4,7 @@
 
 Welcome to my world 🌎
 
-- I'm live in Brazil, southeast
+- I'm living in Brazil, southeast
 - I have been learning more about <img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 - I’m currently working on [*Prodam*](https://portal.prodam.sp.gov.br/) - Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo
 
