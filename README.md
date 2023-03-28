@@ -6,7 +6,7 @@ Welcome to my world 🌎
 
 - I'm living in Brazil, southeast
 - I have been learning more about <img align="center" alt="angular" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-- I’m currently working on [*Prodam*](https://portal.prodam.sp.gov.br/) - Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo
+- I’m currently working on [*Itaú*](https://www.itau.com.br/) - Banco Itaú-Unibanco
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/rafaelfonseca1984/" target="_blank"> <img align="center" alt="rafa-linkedln" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
